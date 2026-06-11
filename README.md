@@ -1,5 +1,5 @@
-klelson rodrigues- trabalho-c26- tdwm-efg
-# SmartTask Secure
+# klelson rodrigues- trabalho-c26- tdwm-efg
+# SmartTask 
 
 O SmartTask é um aplicativo Android nativo desenvolvido em Kotlin voltado para o gerenciamento eficiente e seguro de tarefas diárias. O projeto foi reestruturado profissionalmente com foco em segurança mobile, garantindo a proteção dos dados armazenados, o controle restrito de acessos e a conformidade básica com as diretrizes da LGPD (Lei Geral de Proteção de Dados).
 
